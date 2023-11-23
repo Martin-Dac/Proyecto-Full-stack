@@ -1,0 +1,1091 @@
+[
+  {
+    "model": "imdb.principal",
+    "pk": "nm1588970",
+    "fields": {
+      "pelicula": "tt0000001",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005690",
+    "fields": {
+      "pelicula": "tt0000001",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0374658",
+    "fields": {
+      "pelicula": "tt0000001",
+      "ordering": "3",
+      "category": "cinematographer",
+      "job": "director of photography",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0721526",
+    "fields": {
+      "pelicula": "tt0000002",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1335271",
+    "fields": {
+      "pelicula": "tt0000002",
+      "ordering": "2",
+      "category": "composer",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0721526",
+    "fields": {
+      "pelicula": "tt0000003",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1770680",
+    "fields": {
+      "pelicula": "tt0000003",
+      "ordering": "2",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1335271",
+    "fields": {
+      "pelicula": "tt0000003",
+      "ordering": "3",
+      "category": "composer",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm5442200",
+    "fields": {
+      "pelicula": "tt0000003",
+      "ordering": "4",
+      "category": "editor",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0721526",
+    "fields": {
+      "pelicula": "tt0000004",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1335271",
+    "fields": {
+      "pelicula": "tt0000004",
+      "ordering": "2",
+      "category": "composer",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0443482",
+    "fields": {
+      "pelicula": "tt0000005",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Blacksmith\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0653042",
+    "fields": {
+      "pelicula": "tt0000005",
+      "ordering": "2",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Assistant\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005690",
+    "fields": {
+      "pelicula": "tt0000005",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0249379",
+    "fields": {
+      "pelicula": "tt0000005",
+      "ordering": "4",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005690",
+    "fields": {
+      "pelicula": "tt0000006",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0179163",
+    "fields": {
+      "pelicula": "tt0000007",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0183947",
+    "fields": {
+      "pelicula": "tt0000007",
+      "ordering": "2",
+      "category": "actor",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005690",
+    "fields": {
+      "pelicula": "tt0000007",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0374658",
+    "fields": {
+      "pelicula": "tt0000007",
+      "ordering": "4",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0249379",
+    "fields": {
+      "pelicula": "tt0000007",
+      "ordering": "5",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0653028",
+    "fields": {
+      "pelicula": "tt0000008",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Sneezing Man\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005690",
+    "fields": {
+      "pelicula": "tt0000008",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0374658",
+    "fields": {
+      "pelicula": "tt0000008",
+      "ordering": "3",
+      "category": "cinematographer",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0063086",
+    "fields": {
+      "pelicula": "tt0000009",
+      "ordering": "1",
+      "category": "actress",
+      "job": null,
+      "characters": "[\"Miss Geraldine Holbrook (Miss Jerry)\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0183823",
+    "fields": {
+      "pelicula": "tt0000009",
+      "ordering": "2",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Mr. Hamilton\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1309758",
+    "fields": {
+      "pelicula": "tt0000009",
+      "ordering": "3",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Chauncey Depew - the Director of the New York Central Railroad\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0085156",
+    "fields": {
+      "pelicula": "tt0000009",
+      "ordering": "4",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000010",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm3692297",
+    "fields": {
+      "pelicula": "tt0000011",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Acrobats\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0804434",
+    "fields": {
+      "pelicula": "tt0000011",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2880396",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm9735580",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525900",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "3",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm9735581",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "4",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525908",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "5",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "6",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm9735579",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "7",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm9653419",
+    "fields": {
+      "pelicula": "tt0000012",
+      "ordering": "8",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525908",
+    "fields": {
+      "pelicula": "tt0000013",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1715062",
+    "fields": {
+      "pelicula": "tt0000013",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000013",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0166380",
+    "fields": {
+      "pelicula": "tt0000014",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"The Gardener\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0244989",
+    "fields": {
+      "pelicula": "tt0000014",
+      "ordering": "2",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"The Boy\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000014",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0721526",
+    "fields": {
+      "pelicula": "tt0000015",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525900",
+    "fields": {
+      "pelicula": "tt0000016",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self (on the pier)\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm9735581",
+    "fields": {
+      "pelicula": "tt0000016",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self (on the pier)\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000016",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm3691272",
+    "fields": {
+      "pelicula": "tt0000017",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"The boy\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm3692829",
+    "fields": {
+      "pelicula": "tt0000017",
+      "ordering": "2",
+      "category": "actress",
+      "job": null,
+      "characters": "[\"The girl\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1587194",
+    "fields": {
+      "pelicula": "tt0000017",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0804434",
+    "fields": {
+      "pelicula": "tt0000017",
+      "ordering": "4",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm3692071",
+    "fields": {
+      "pelicula": "tt0000018",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"The Boxer\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0804434",
+    "fields": {
+      "pelicula": "tt0000018",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0932055",
+    "fields": {
+      "pelicula": "tt0000019",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0010291",
+    "fields": {
+      "pelicula": "tt0000020",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0666972",
+    "fields": {
+      "pelicula": "tt0000020",
+      "ordering": "2",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000022",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000023",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0256651",
+    "fields": {
+      "pelicula": "tt0000024",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self - Empress of Gemany\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0435118",
+    "fields": {
+      "pelicula": "tt0000024",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self - Emperor of Germany\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0010291",
+    "fields": {
+      "pelicula": "tt0000024",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0666972",
+    "fields": {
+      "pelicula": "tt0000024",
+      "ordering": "4",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0010291",
+    "fields": {
+      "pelicula": "tt0000025",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0666972",
+    "fields": {
+      "pelicula": "tt0000025",
+      "ordering": "2",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2350007",
+    "fields": {
+      "pelicula": "tt0000026",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Valet\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525907",
+    "fields": {
+      "pelicula": "tt0000026",
+      "ordering": "2",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Man playing cards, seated on the left\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm1151424",
+    "fields": {
+      "pelicula": "tt0000026",
+      "ordering": "3",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Man playing cards, seated on the right\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2354154",
+    "fields": {
+      "pelicula": "tt0000026",
+      "ordering": "4",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Man playing cards, seated in the middle\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000026",
+      "ordering": "5",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000027",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2350838",
+    "fields": {
+      "pelicula": "tt0000028",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525908",
+    "fields": {
+      "pelicula": "tt0000028",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000028",
+      "ordering": "3",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525908",
+    "fields": {
+      "pelicula": "tt0000029",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525900",
+    "fields": {
+      "pelicula": "tt0000029",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2350838",
+    "fields": {
+      "pelicula": "tt0000029",
+      "ordering": "3",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000029",
+      "ordering": "4",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0010291",
+    "fields": {
+      "pelicula": "tt0000030",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0666972",
+    "fields": {
+      "pelicula": "tt0000030",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000031",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm3692479",
+    "fields": {
+      "pelicula": "tt0000032",
+      "ordering": "1",
+      "category": "actress",
+      "job": null,
+      "characters": "[\"The dancer\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0804434",
+    "fields": {
+      "pelicula": "tt0000032",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000033",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0617588",
+    "fields": {
+      "pelicula": "tt0000034",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0617588",
+    "fields": {
+      "pelicula": "tt0000035",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0420198",
+    "fields": {
+      "pelicula": "tt0000036",
+      "ordering": "1",
+      "category": "actor",
+      "job": null,
+      "characters": "[\"Rip Van Winkle\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005690",
+    "fields": {
+      "pelicula": "tt0000036",
+      "ordering": "2",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0410331",
+    "fields": {
+      "pelicula": "tt0000036",
+      "ordering": "3",
+      "category": "writer",
+      "job": "story \"Rip Van Winkle\"",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0005658",
+    "fields": {
+      "pelicula": "tt0000036",
+      "ordering": "4",
+      "category": "cinematographer",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0617588",
+    "fields": {
+      "pelicula": "tt0000037",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2960633",
+    "fields": {
+      "pelicula": "tt0000038",
+      "ordering": "1",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self - First baseman\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0340719",
+    "fields": {
+      "pelicula": "tt0000038",
+      "ordering": "2",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm2958402",
+    "fields": {
+      "pelicula": "tt0000038",
+      "ordering": "3",
+      "category": "self",
+      "job": null,
+      "characters": "[\"Self\"]"
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0374658",
+    "fields": {
+      "pelicula": "tt0000038",
+      "ordering": "4",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0666972",
+    "fields": {
+      "pelicula": "tt0000039",
+      "ordering": "1",
+      "category": "producer",
+      "job": "producer",
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0617588",
+    "fields": {
+      "pelicula": "tt0000040",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  },
+  {
+    "model": "imdb.principal",
+    "pk": "nm0525910",
+    "fields": {
+      "pelicula": "tt0000041",
+      "ordering": "1",
+      "category": "director",
+      "job": null,
+      "characters": null
+    }
+  }
+]

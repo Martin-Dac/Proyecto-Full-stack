@@ -1,0 +1,470 @@
+[
+  {
+    "model": "imdb.actor",
+    "pk": "nm0005658",
+    "fields": {
+      "primaryName": "G.W. Bitzer",
+      "birthYear": 1872,
+      "deathYear": 1944
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0005690",
+    "fields": {
+      "primaryName": "William K.L. Dickson",
+      "birthYear": 1860,
+      "deathYear": 1935
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0010291",
+    "fields": {
+      "primaryName": "Birt Acres",
+      "birthYear": 1854,
+      "deathYear": 1918
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0063086",
+    "fields": {
+      "primaryName": "Blanche Bayliss",
+      "birthYear": 1878,
+      "deathYear": 1951
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0085156",
+    "fields": {
+      "primaryName": "Alexander Black",
+      "birthYear": 1859,
+      "deathYear": 1940
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0166380",
+    "fields": {
+      "primaryName": "Fran\u00c3\u00a7ois Clerc",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0179163",
+    "fields": {
+      "primaryName": "James J. Corbett",
+      "birthYear": 1866,
+      "deathYear": 1933
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0183823",
+    "fields": {
+      "primaryName": "William Courtenay",
+      "birthYear": 1875,
+      "deathYear": 1933
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0183947",
+    "fields": {
+      "primaryName": "Peter Courtney",
+      "birthYear": 1867,
+      "deathYear": 1896
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0244989",
+    "fields": {
+      "primaryName": "Beno\u00c3\u00aet Duval",
+      "birthYear": 1881,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0249379",
+    "fields": {
+      "primaryName": "Thomas A. Edison",
+      "birthYear": 1847,
+      "deathYear": 1931
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0256651",
+    "fields": {
+      "primaryName": "Empress Augusta Victoria",
+      "birthYear": 1858,
+      "deathYear": 1921
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0340719",
+    "fields": {
+      "primaryName": "Zane Grey",
+      "birthYear": 1872,
+      "deathYear": 1939
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0374658",
+    "fields": {
+      "primaryName": "William Heise",
+      "birthYear": 1847,
+      "deathYear": 1910
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0410331",
+    "fields": {
+      "primaryName": "Washington Irving",
+      "birthYear": 1783,
+      "deathYear": 1859
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0420198",
+    "fields": {
+      "primaryName": "Joseph Jefferson",
+      "birthYear": 1829,
+      "deathYear": 1905
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0435118",
+    "fields": {
+      "primaryName": "Kaiser Wilhelm II",
+      "birthYear": 1859,
+      "deathYear": 1941
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0443482",
+    "fields": {
+      "primaryName": "Charles Kayser",
+      "birthYear": 1878,
+      "deathYear": 1966
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0525900",
+    "fields": {
+      "primaryName": "Mrs. Auguste Lumiere",
+      "birthYear": 1874,
+      "deathYear": 1963
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0525907",
+    "fields": {
+      "primaryName": "Antoine Lumi\u00c3\u00a8re",
+      "birthYear": 1840,
+      "deathYear": 1911
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0525908",
+    "fields": {
+      "primaryName": "Auguste Lumi\u00c3\u00a8re",
+      "birthYear": 1862,
+      "deathYear": 1954
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0525910",
+    "fields": {
+      "primaryName": "Louis Lumi\u00c3\u00a8re",
+      "birthYear": 1864,
+      "deathYear": 1948
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0617588",
+    "fields": {
+      "primaryName": "Georges M\u00c3\u00a9li\u00c3\u00a8s",
+      "birthYear": 1861,
+      "deathYear": 1938
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0653028",
+    "fields": {
+      "primaryName": "Fred Ott",
+      "birthYear": 1860,
+      "deathYear": 1936
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0653042",
+    "fields": {
+      "primaryName": "John Ott",
+      "birthYear": 1850,
+      "deathYear": 1931
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0666972",
+    "fields": {
+      "primaryName": "Robert W. Paul",
+      "birthYear": 1869,
+      "deathYear": 1943
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0721526",
+    "fields": {
+      "primaryName": "\u00c3\u2030mile Reynaud",
+      "birthYear": 1844,
+      "deathYear": 1918
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0804434",
+    "fields": {
+      "primaryName": "Max Skladanowsky",
+      "birthYear": 1863,
+      "deathYear": 1939
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm0932055",
+    "fields": {
+      "primaryName": "James Williamson",
+      "birthYear": 1855,
+      "deathYear": 1933
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1151424",
+    "fields": {
+      "primaryName": "F\u00c3\u00a9licien Trewey",
+      "birthYear": 1848,
+      "deathYear": 1920
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1309758",
+    "fields": {
+      "primaryName": "Chauncey Depew",
+      "birthYear": 1834,
+      "deathYear": 1928
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1335271",
+    "fields": {
+      "primaryName": "Gaston Paulin",
+      "birthYear": null,
+      "deathYear": 1921
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1587194",
+    "fields": {
+      "primaryName": "Emil Skladanowsky",
+      "birthYear": 1866,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1588970",
+    "fields": {
+      "primaryName": "Carmencita",
+      "birthYear": 1868,
+      "deathYear": 1910
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1715062",
+    "fields": {
+      "primaryName": "P.J.C. Janssen",
+      "birthYear": 1824,
+      "deathYear": 1907
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm1770680",
+    "fields": {
+      "primaryName": "Julien Papp\u00c3\u00a9",
+      "birthYear": 1920,
+      "deathYear": 2005
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm2350007",
+    "fields": {
+      "primaryName": "Antoine F\u00c3\u00a9raud",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm2350838",
+    "fields": {
+      "primaryName": "Andr\u00c3\u00a9e Lumi\u00c3\u00a8re",
+      "birthYear": 1894,
+      "deathYear": 1918
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm2354154",
+    "fields": {
+      "primaryName": "Alphonse Winckler",
+      "birthYear": 1839,
+      "deathYear": 1925
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm2880396",
+    "fields": {
+      "primaryName": "Madeleine Koehler",
+      "birthYear": 1895,
+      "deathYear": 1970
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm2958402",
+    "fields": {
+      "primaryName": "Scott Stratton",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm2960633",
+    "fields": {
+      "primaryName": "Scoops Carey",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm3691272",
+    "fields": {
+      "primaryName": "Ploetz",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm3692071",
+    "fields": {
+      "primaryName": "Delaware",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm3692297",
+    "fields": {
+      "primaryName": "Grunato",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm3692479",
+    "fields": {
+      "primaryName": "Ancion",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm3692829",
+    "fields": {
+      "primaryName": "Larella",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm5442200",
+    "fields": {
+      "primaryName": "Tamara Papp\u00c3\u00a9",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm9653419",
+    "fields": {
+      "primaryName": "Suzanne Lumi\u00c3\u00a8re",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm9735579",
+    "fields": {
+      "primaryName": "Rose Lumi\u00c3\u00a8re",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm9735580",
+    "fields": {
+      "primaryName": "Marcel Koehler",
+      "birthYear": null,
+      "deathYear": null
+    }
+  },
+  {
+    "model": "imdb.actor",
+    "pk": "nm9735581",
+    "fields": {
+      "primaryName": "Jeanne-Jos\u00c3\u00a9phine Lumi\u00c3\u00a8re",
+      "birthYear": null,
+      "deathYear": null
+    }
+  }
+]
