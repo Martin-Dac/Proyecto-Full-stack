@@ -1,11 +1,11 @@
-Intrucciones para deploy
+**Intrucciones para deploy**
 
 Para el deploy de este hay dos maneras, una es docker y la otra es con runserver
 
-DEPLOY con Docker
+## DEPLOY con Docker
 En caso de que sea la primera vez deployeando con docker debemos usar el comando: docker compose up --build una vez levantado tanto back como front debemos usar la url localhost:3000 En caso de que queramos cerrarlo es con el comando: docker compose down Para las siguientes veces que queramos deployearlo debesmo usar el comando docker compose up
 
-DEPLOY con runserver
+## DEPLOY con runserver
 Primero que nada debemos crear el entorno virtual con el comando python -m venv venv con eso creariamos un entorno virtual llamado venv. Para activarlo usando bash seria source venv/scripts/activate en windows y source venv/bin/activate en linux
 
 Deploy back:
